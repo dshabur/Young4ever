@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Young Forever - Главная</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        html {
+            scroll-behavior: smooth; /* Плавная прокрутка */
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Young Forever</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="skincare.html">Уход за кожей</a></li>
+            <li><a href="haircare.html">Уход за волосами</a></li>
+            <li><a href="nailcare.html">Уход за ногтями</a></li>
+            <li><a href="bodycare.html">Уход за телом</a></li>
+        </ul>
+    </nav>
+</header>
+
+<div class="container">
+    <h2>Добро пожаловать в Young Forever!</h2>
+    <p>Мы предлагаем лучшие советы и продукты для ухода за собой. Выберите одну из секций ниже, чтобы узнать больше:</p>
+
+    <section class="sections">
+        <h3>Секции:</h3>
+        <ul>
+            <li><a href="skincare.html">Уход за кожей</a> - Узнайте о лучших продуктах и процедурах для вашей кожи.</li>
+            <li><a href="haircare.html">Уход за волосами</a> - Откройте для себя секреты здоровых и красивых волос.</li>
+            <li><a href="nailcare.html">Уход за ногтями</a> - Получите советы по маникюру и педикюру.</li>
+            <li><a href="bodycare.html">Уход за телом</a> - Узнайте о лучших средствах для ухода за телом.</li>
+        </ul>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2025 Young Forever. Все права защищены.</p>
+</footer>
+
+<script>
+// Прокрутка страницы при использовании колесика мыши
+document.addEventListener('wheel', function(event) {
+    event.preventDefault();
+    
+    if (event.deltaY > 0) {
+        window.scrollBy({ top: 100, left: 0, behavior: 'smooth' });
+    } else {
+        window.scrollBy({ top: -100, left: 0, behavior: 'smooth' });
+    }
+}, { passive: false });
+</script>
+
+</body>
+</html>
