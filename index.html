@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Young Forever - Главная</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        html {
+            scroll-behavior: smooth; /* Плавная прокрутка */
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+            display: flex;
+            gap: 15px; /* Расстояние между пунктами меню */
+        }
+        nav a {
+            text-decoration: none;
+            color: black; /* Цвет текста ссылок */
+        }
+        .profile-icon {
+            width: 40px; /* Ширина иконки */
+            height: 40px; /* Высота иконки */
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Young Forever</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="skincare.html">Уход за кожей</a></li>
+            <li><a href="haircare.html">Уход за волосами</a></li>
+            <li><a href="nailcare.html">Уход за ногтями</a></li>
+            <li><a href="bodycare.html">Уход за телом</a></li>
+        </ul>
+    </nav>
+    <a href="profile.html"><img src="profile-icon.png" alt="Личный кабинет" class="profile-icon"></a> <!-- Иконка личного кабинета -->
+</header>
+
+<iframe id="pdfViewer" src="main.pdf" style="width:1920px; height:1080px;"></iframe>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+    </style>
+<footer>
+    <p>&copy; 2025 Young Forever. Все права защищены.</p>
+</footer>
+
+<script>
+// Прокрутка страницы при использовании колесика мыши
+document.addEventListener('wheel', function(event) {
+    event.preventDefault();
+    
+    if (event.deltaY > 0) {
+        window.scrollBy({ top: 100, left: 0, behavior: 'smooth' });
+    } else {
+        window.scrollBy({ top: -100, left: 0, behavior: 'smooth' });
+    }
+}, { passive: false });
+
+// Скрытие iframe на главной странице
+if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
+    document.getElementById('pdfViewer').style.display = 'none';
+}
+</script>
+
+</body>
+</html>

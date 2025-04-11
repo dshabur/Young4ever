@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Регистрация - Young Forever</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .form-container {
+            max-width: 400px;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+        }
+        input[type="text"], input[type="email"], input[type="password"] {
+            width: calc(100% - 20px); /* Учитываем отступы */
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px; 
+            border: 1px solid #ccc; 
+        }
+        .button-container {
+            display: flex; /* Используем flexbox для центрирования */
+            justify-content: center; /* Центрируем по горизонтали */
+        }
+        button {
+            padding: 10px; 
+            background-color: #007bff; 
+            color: white; 
+            border:none; 
+           border-radius :4 px; 
+           width :100%; /* Задаем ширину кнопки на всю ширину контейнера */
+       } 
+       .toggle-link {
+           text-align:center; 
+           margin-top :10 px; 
+       } 
+   </style> 
+</head> 
+<body>
+
+<div class = "form-container"> 
+   <h2>Регистрация</h2> 
+   <form id = "registerForm" onsubmit = "return handleRegister(event)"> 
+       <input type = "text" id = "username" placeholder = "Имя пользователя" required> 
+       <input type = "email" id = "email" placeholder = "Email" required> 
+       <input type = "password" id = "password" placeholder = "Пароль" required> 
+       <input type = "password" id = "confirmPassword" placeholder = "Подтверждение пароля" required> 
+       <button type = "submit">Зарегистрироваться</button> 
+    <!-- Контейнер для кнопки -->
+    <div class="button-container">
+        <button type="submit">Зарегистрироваться</button>
+    </div>
+    </form> 
+   <div class = "toggle-link"> 
+       <p>Уже есть аккаунт? <a href = "login.html">Войдите</a></p> 
+   </div> 
+</div>
+
+<script>
+// Список нецензурных слов (пример)
+const forbiddenWords = ["плохое", "нецензурное", "слово"];
+
+function handleRegister(event) {
+    event.preventDefault();
+
+    const username = document.getElementById('username').value.trim();
+    const email = document.getElementById('email').value.trim();
+    const password = document.getElementById('password').value.trim();
+    const confirmPassword = document.getElementById('confirmPassword').value.trim();
+
+    // Проверка на нецензурные слова в имени пользователя
+    if (forbiddenWords.some(word => username.includes(word))) {
+        alert("Имя пользователя содержит недопустимые слова.");
+        return false; // Останавливаем выполнение
+    }
+
+    // Проверка совпадения паролей
+    if (password !== confirmPassword) {
+        alert("Пароли не совпадают.");
+        return false; // Останавливаем выполнение
+    }
+
+    // Здесь должна быть логика для проверки существования email и регистрации пользователя
+    console.log("Регистрация:", { username, email, password });
+
+    // Пример успешной регистрации
+    alert("Вы успешно зарегистрированы!");
+
+   // Перенаправление на страницу авторизации или другую страницу
+   // window.location.href ="login.html";
+}
+</script>
+
+</body>
+</html>
