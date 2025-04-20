@@ -1,0 +1,239 @@
+[2025-04-19 16:06:19] Необработанное исключение: Call to undefined function checkDatabaseConnection()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\config.php","line":167,"trace":"#0 C:\\OSPanel\\domains\\localhost\\da\\index.php(2): require_once()\n#1 {main}"}
+[2025-04-19 16:06:20] Необработанное исключение: Call to undefined function checkDatabaseConnection()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\config.php","line":167,"trace":"#0 C:\\OSPanel\\domains\\localhost\\da\\index.php(2): require_once()\n#1 {main}"}
+[2025-04-19 16:06:22] Необработанное исключение: Call to undefined function checkDatabaseConnection()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\config.php","line":167,"trace":"#0 C:\\OSPanel\\domains\\localhost\\da\\index.php(2): require_once()\n#1 {main}"}
+[2025-04-19 16:06:32] Необработанное исключение: Call to undefined function checkDatabaseConnection()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\config.php","line":167,"trace":"#0 C:\\OSPanel\\domains\\localhost\\da\\login.php(2): require_once()\n#1 {main}"}
+[2025-04-19 16:06:33] Необработанное исключение: Call to undefined function checkDatabaseConnection()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\config.php","line":167,"trace":"#0 C:\\OSPanel\\domains\\localhost\\da\\login.php(2): require_once()\n#1 {main}"}
+[2025-04-19 16:18:12] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:12] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:18:19] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:19] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:18:21] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:21] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:18:23] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:23] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:18:24] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:24] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:18:25] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:25] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:18:26] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:26] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:18:28] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:18:28] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:08] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:08] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:10] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:10] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:11] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:11] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:13] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:13] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:14] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:14] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:15] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:15] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:16] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:16] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:17] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:17] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:19] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:19] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:20] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:20] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:44] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:44] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:51] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:51] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:53] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:53] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:20:55] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:20:55] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:22:35] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:22:35] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:23:49] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:23:49] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:23:52] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:23:52] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:23:54] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:23:54] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:23:55] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:23:55] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:23:57] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:23:57] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:26:40] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:26:40] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:26:41] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:26:41] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:27:35] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:27:35] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:27:37] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:27:37] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:29:06] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 133
+[2025-04-19 16:29:06] Ошибка [2] Undefined variable $isLoggedIn в C:\OSPanel\domains\localhost\da\index.php на строке 147
+[2025-04-19 16:42:56] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":58,"trace":"#0 {main}"}
+[2025-04-19 16:43:53] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":58,"trace":"#0 {main}"}
+[2025-04-19 16:46:19] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":54,"trace":"#0 {main}"}
+[2025-04-19 16:46:53] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":54,"trace":"#0 {main}"}
+[2025-04-19 16:47:36] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":54,"trace":"#0 {main}"}
+[2025-04-19 16:48:17] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":54,"trace":"#0 {main}"}
+[2025-04-19 16:48:23] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":54,"trace":"#0 {main}"}
+[2025-04-19 16:51:24] Успешное подключение к серверу MySQL
+[2025-04-19 16:51:24] Успешное подключение к базе данных prostovkusno
+[2025-04-19 16:51:24] Необработанное исключение: Call to undefined method Database::prepare()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":54,"trace":"#0 {main}"}
+[2025-04-19 16:53:47] Успешное подключение к серверу MySQL
+[2025-04-19 16:53:47] Успешное подключение к базе данных prostovkusno
+[2025-04-19 16:53:47] Необработанное исключение: Call to private Database::__construct() from global scope
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\register.php","line":53,"trace":"#0 {main}"}
+[2025-04-19 16:54:30] Успешное подключение к серверу MySQL
+[2025-04-19 16:54:30] Успешное подключение к базе данных prostovkusno
+[2025-04-19 16:54:34] Успешное подключение к серверу MySQL
+[2025-04-19 16:54:34] Успешное подключение к базе данных prostovkusno
+[2025-04-19 16:54:34] Ошибка при регистрации
+Контекст: {"username":"Penis","email":"fgaj086@gmail.com","error":"SQLSTATE[HY000]: General error: 1364 Field 'confirm_password' doesn't have a default value"}
+[2025-04-19 16:54:40] Успешное подключение к серверу MySQL
+[2025-04-19 16:54:40] Успешное подключение к базе данных prostovkusno
+[2025-04-19 16:54:40] Ошибка при регистрации
+Контекст: {"username":"Penis","email":"fgaj086@gmail.com","error":"SQLSTATE[HY000]: General error: 1364 Field 'confirm_password' doesn't have a default value"}
+[2025-04-19 16:56:29] Успешное подключение к серверу MySQL
+[2025-04-19 16:56:29] Успешное подключение к базе данных prostovkusno
+[2025-04-19 16:56:29] Успешное подключение к серверу MySQL
+[2025-04-19 16:56:29] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:00:20] Успешное подключение к серверу MySQL
+[2025-04-19 17:00:20] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:03:08] Успешное подключение к серверу MySQL
+[2025-04-19 17:03:08] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:03:09] Успешное подключение к серверу MySQL
+[2025-04-19 17:03:09] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:03:10] Успешное подключение к серверу MySQL
+[2025-04-19 17:03:10] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:03:27] Успешное подключение к серверу MySQL
+[2025-04-19 17:03:27] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:03:31] Успешное подключение к серверу MySQL
+[2025-04-19 17:03:31] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:04:34] Успешное подключение к серверу MySQL
+[2025-04-19 17:04:34] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:04:34] Необработанное исключение: Call to private Database::__construct() from global scope
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\login.php","line":41,"trace":"#0 {main}"}
+[2025-04-19 17:04:36] Успешное подключение к серверу MySQL
+[2025-04-19 17:04:36] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:04:39] Успешное подключение к серверу MySQL
+[2025-04-19 17:04:39] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:04:39] Необработанное исключение: Call to private Database::__construct() from global scope
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\login.php","line":41,"trace":"#0 {main}"}
+[2025-04-19 17:04:41] Успешное подключение к серверу MySQL
+[2025-04-19 17:04:41] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:05:33] Успешное подключение к серверу MySQL
+[2025-04-19 17:05:33] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:06:30] Успешное подключение к серверу MySQL
+[2025-04-19 17:06:30] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:06:47] Успешное подключение к серверу MySQL
+[2025-04-19 17:06:47] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:06:58] Успешное подключение к серверу MySQL
+[2025-04-19 17:06:58] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:06:58] Успешное подключение к серверу MySQL
+[2025-04-19 17:06:58] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:07:51] Успешное подключение к серверу MySQL
+[2025-04-19 17:07:51] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:07:52] Успешное подключение к серверу MySQL
+[2025-04-19 17:07:52] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:07:59] Успешное подключение к серверу MySQL
+[2025-04-19 17:07:59] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:09:43] Успешное подключение к серверу MySQL
+[2025-04-19 17:09:43] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:09:49] Успешное подключение к серверу MySQL
+[2025-04-19 17:09:49] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:10:27] Успешное подключение к серверу MySQL
+[2025-04-19 17:10:27] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:11:52] Успешное подключение к серверу MySQL
+[2025-04-19 17:11:52] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:18:25] Успешное подключение к серверу MySQL
+[2025-04-19 17:18:25] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:18:25] Ошибка [8] session_start(): Ignoring session_start() because a session is already active в C:\OSPanel\domains\localhost\da\logout.php на строке 5
+[2025-04-19 17:18:25] Необработанное исключение: Call to undefined function logSecurityEvent()
+Контекст: {"file":"C:\\OSPanel\\domains\\localhost\\da\\logout.php","line":9,"trace":"#0 {main}"}
+[2025-04-19 17:20:13] Успешное подключение к серверу MySQL
+[2025-04-19 17:20:13] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:20:13] Успешное подключение к серверу MySQL
+[2025-04-19 17:20:13] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:20:15] Успешное подключение к серверу MySQL
+[2025-04-19 17:20:15] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:20:16] Успешное подключение к серверу MySQL
+[2025-04-19 17:20:16] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:20:24] Успешное подключение к серверу MySQL
+[2025-04-19 17:20:24] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:20:29] Успешное подключение к серверу MySQL
+[2025-04-19 17:20:29] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:20:30] Успешное подключение к серверу MySQL
+[2025-04-19 17:20:30] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:21:00] Успешное подключение к серверу MySQL
+[2025-04-19 17:21:00] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:22:41] Успешное подключение к серверу MySQL
+[2025-04-19 17:22:41] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:22:41] Ошибка при получении данных пользователя: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'prostovkusno.saved_articles' doesn't exist
+[2025-04-19 17:22:41] Ошибка [2] Undefined variable $avatarLetter в C:\OSPanel\domains\localhost\da\profile.php на строке 199
+[2025-04-19 17:22:41] Ошибка [2] Undefined variable $user в C:\OSPanel\domains\localhost\da\profile.php на строке 200
+[2025-04-19 17:22:41] Ошибка [2] Trying to access array offset on value of type null в C:\OSPanel\domains\localhost\da\profile.php на строке 200
+[2025-04-19 17:22:48] Успешное подключение к серверу MySQL
+[2025-04-19 17:22:48] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:22:48] Успешное подключение к серверу MySQL
+[2025-04-19 17:22:48] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:17] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:17] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:20] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:20] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:37] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:37] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:37] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:37] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:39] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:39] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:39] Ошибка при получении данных пользователя: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'prostovkusno.saved_articles' doesn't exist
+[2025-04-19 17:25:39] Ошибка [2] Undefined variable $avatarLetter в C:\OSPanel\domains\localhost\da\profile.php на строке 199
+[2025-04-19 17:25:39] Ошибка [2] Undefined variable $user в C:\OSPanel\domains\localhost\da\profile.php на строке 200
+[2025-04-19 17:25:39] Ошибка [2] Trying to access array offset on value of type null в C:\OSPanel\domains\localhost\da\profile.php на строке 200
+[2025-04-19 17:25:40] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:40] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:40] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:40] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:45] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:45] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:55] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:55] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:25:55] Успешное подключение к серверу MySQL
+[2025-04-19 17:25:55] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:07] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:07] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:07] Ошибка при получении данных пользователя: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'prostovkusno.saved_articles' doesn't exist
+[2025-04-19 17:26:07] Ошибка [2] Undefined variable $avatarLetter в C:\OSPanel\domains\localhost\da\profile.php на строке 199
+[2025-04-19 17:26:07] Ошибка [2] Undefined variable $user в C:\OSPanel\domains\localhost\da\profile.php на строке 200
+[2025-04-19 17:26:07] Ошибка [2] Trying to access array offset on value of type null в C:\OSPanel\domains\localhost\da\profile.php на строке 200
+[2025-04-19 17:26:19] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:19] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:19] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:19] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:21] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:21] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:44] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:44] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:46] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:46] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:48] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:48] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:49] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:49] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:26:50] Успешное подключение к серверу MySQL
+[2025-04-19 17:26:50] Успешное подключение к базе данных prostovkusno
+[2025-04-19 17:39:14] Успешное подключение к серверу MySQL
+[2025-04-19 17:39:14] Успешное подключение к базе данных prostovkusno
