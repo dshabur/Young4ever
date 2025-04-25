@@ -22,9 +22,9 @@ function verifyCsrfToken($token) {
 
 // Настройки базы данных
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'young4ever');
+define('DB_NAME', 'YoungForever');
 define('DB_USER', 'ghouliha');
-define('DB_PASS', 'Nsscllns060706');
+define('DB_PASS', '010206Danilka');
 
 // Проверка подключения к базе данных
 function checkDatabaseConnection() {

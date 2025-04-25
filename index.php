@@ -145,7 +145,6 @@ $username = $isLoggedIn ? ($_SESSION['username'] ?? '') : '';
 <body>
     <header>
         <div class="header-container">
-            <a href="index.php" class="logo">Young Forever</a>
             <nav>
                 <ul>
                     <li class="large-text"><a href="index.php" class="active">Главная</a></li>
@@ -192,29 +191,6 @@ $username = $isLoggedIn ? ($_SESSION['username'] ?? '') : '';
                 behavior: 'smooth'
             });
         }, { passive: false });
-
-        // Ленивая загрузка изображений
-        const images = document.querySelectorAll('.gallery-image');
-        const imageOptions = {
-            threshold: 0.1,
-            rootMargin: "0px 0px 50px 0px"
-        };
-
-        const imageObserver = new IntersectionObserver((entries, observer) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const img = entry.target;
-                    if (img.dataset.src) {
-                        img.src = img.dataset.src;
-                        img.removeAttribute('data-src');
-                    }
-                    observer.unobserve(img);
-                }
-            });
-        }, imageOptions);
-
-        images.forEach(img => imageObserver.observe(img));
-    });
     </script>
 </body>
 </html> 
